@@ -6,3 +6,9 @@
 - どん
 - 茨城県
 - サーバーサイドプログラミング
+
+# Skills
+- Macbook pro
+- JavaScript
+- Node.js,Express
+- Git,PostgreSQL
